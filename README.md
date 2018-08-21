@@ -2,7 +2,9 @@
 
 * Mercurial
 
-* GitLab
+
+* Git
+
 
 * Subversion
 
